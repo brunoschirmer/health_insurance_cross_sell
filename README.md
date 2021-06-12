@@ -1,8 +1,10 @@
 # Health Insurance Cross-Sell
 
+![Cross-selling](https://user-images.githubusercontent.com/80545792/121780148-6de0e700-cb75-11eb-9e9b-9ba0d2ddfeb8.png)
+
 ## This project aims to order a potential client list by propensity score
 
-#### This project was made by {cookiecutter.author}}.
+#### This project was made by Bruno Schirmer.
 
 # 1. Business Problem.
 
